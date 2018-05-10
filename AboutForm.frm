@@ -19,7 +19,7 @@ Begin VB.Form AboutForm
       Width           =   1575
    End
    Begin VB.Label Label4 
-      Caption         =   "°æ±¾ºÅ£º0.0.1"
+      Caption         =   "°æ±¾ºÅ£º0.0.2"
       Height          =   255
       Left            =   2520
       TabIndex        =   4
