@@ -1,13 +1,11 @@
 Type=Exe
 Form=MainForm.frm
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Form=AboutForm.frm
-Form=CoForm.frm
+Form=NewForm.frm
+Form=ImportForm.frm
 Module=Module1; Module1.bas
-Form=PitcureForm.frm
 IconForm="MainForm"
 Startup="MainForm"
-ExeName32="Fx¿ØÖÆÆ÷.exe"
 Command32=""
 Name="¹¤³Ì1"
 HelpContextID="0"
